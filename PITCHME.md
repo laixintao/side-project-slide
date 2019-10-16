@@ -121,7 +121,9 @@ PR 比 fork 出来更有挑战。
 
 +++
 
-### 10x programmer的秘诀：少些代码
+### 10x programmer的秘诀
+
+### 少些代码
 
 ![](./assets/redis-ci.png)
 
@@ -176,5 +178,17 @@ PR 比 fork 出来更有挑战。
 ---
 
 ## Thanks！
+
+Slides 在 Github 上有:
+
+https://github.com/laixintao/side-project-slide
+
+在线预览:
+
+https://gitpitch.com/laixintao/side-project-slide
+
+### 我的微信
+
+![](./assets/wechat.png)
 
 
