@@ -1,6 +1,8 @@
 ## 如何做一个Side Project
 
-### 如何做一个体面的程序员？
+#### ---- 如何做一个体面的程序员？
+
+### By laixintao
 
 ---
 
@@ -158,6 +160,10 @@ PR 比 fork 出来更有挑战。
 - 推荐这个项目的替代品；
 - 将项目转交给其他人来维护；
 
++++
+
+> 不要迷恋Star, star 没有什么用，就和钱一样。
+
 ---
 
 ## 总结
@@ -182,13 +188,3 @@ PR 比 fork 出来更有挑战。
 Slides 在 Github 上有:
 
 https://github.com/laixintao/side-project-slide
-
-在线预览:
-
-https://gitpitch.com/laixintao/side-project-slide
-
-### 我的微信
-
-![](./assets/wechat.png)
-
-
