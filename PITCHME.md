@@ -57,10 +57,36 @@
 
 +++
 
+## cURL
+
+- ~200 releases(since 1997)
+- 500+ contributors
+- 24k+ commits
+
++++
+
+## POLHEM 奖
+
+> 一年一次的 Polhem 奖授予 Daniel.
+
+> https://daniel.haxx.se/blog/2018/09/25/the-polhem-prize-one-year-later/
+
++++
+
+瑞典国王亲自颁奖
+
+![](./assets/daniel-king-handshake.jpg)
+
++++
+
 1. 用PR追踪自己的工作;
 2. 尽早的将原型打包上传到 Pypi，方便别人尝试你的项目（推荐Poetry）;
 3. 将一些计划或者想法赶紧用 issue 记录下来；
 4. 骄傲的发布有关自己的项目的动态；
+
++++
+
+Friends don't let friends pip install -r requirements.txt
 
 ---
 
@@ -128,6 +154,8 @@ PR 比 fork 出来更有挑战。
 ### 少些代码
 
 ![](./assets/redis-ci.png)
+
++++
 
 - 自动build branch
 - 失败时发送邮件通知
